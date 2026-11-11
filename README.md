@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/hello.gif" width="600" alt="blowing a kiss behind a pink heart">
+<img src="assets/hello.gif" width="600">
 
 ### hi, i'm fugita ♡
 
-<sub>cybersec ⋆ learning ai ⋆ k-pop on repeat</sub>
+<sub>cybersec ⋆ ai ⋆ k-pop</sub>
 
 <br>
 
